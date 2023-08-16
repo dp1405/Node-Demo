@@ -1,0 +1,7 @@
+Hello there!
+This is CodeHunter
+This is the text from the first text file.
+This is 2nd line from 1st text file.
+This is the text from the second text file.
+Hello There!
+This is CodeHunter again!
